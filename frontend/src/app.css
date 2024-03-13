@@ -1,0 +1,113 @@
+/* Navbar.css */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+    color: white;
+  }
+  
+  .navbar-logo {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .navbar-nav {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-item {
+    margin-right: 15px;
+  }
+  
+  .nav-link {
+    color: white;
+    text-decoration: none;
+  }
+
+  .bg-image {
+    background-image: url("D:/Komal/react/frontend/Budgeting.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh; 
+  }
+  
+  .bg-imageL {
+    background-image: url("D:/Komal/react/frontend/login.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: center;
+    min-height: 100vh; 
+  }
+
+  .bg-imageS {
+    background-image: url("D:/Komal/react/frontend/student1.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: center;
+    min-height: 100vh; 
+  }
+
+  .bg-imageR {
+    background-image: url("D:/Komal/react/frontend/Rent.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: center;
+    min-height: 100vh; 
+  }
+
+  .bg-imageF {
+    background-image: url("D:/Komal/react/frontend/Food.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: center;
+    min-height: 100vh; 
+  }
+
+  .bg-imageB {
+    background-image: url("D:/Komal/react/frontend/Bill.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: center;
+    min-height: 100vh; 
+  }
+
+  .bg-imageH {
+    background-image: url("D:/Komal/react/frontend/Home.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: center;
+    min-height: 100vh; 
+  }
+
+  .bg-imageO {
+    background-image: url("D:/Komal/react/frontend/Others.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: center;
+    min-height: 100vh; 
+  }
+
+  .bg-imageT {
+    background-image: url("D:/Komal/react/frontend/total.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: center;
+    min-height: 100vh; 
+  }
+
+  .bg-imageL {
+    background-image: url("D:/Komal/react/frontend/last.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: center;
+    min-height: 100vh; 
+  }
+  
+ 
